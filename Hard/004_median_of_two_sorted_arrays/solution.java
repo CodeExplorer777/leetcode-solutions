@@ -24,7 +24,7 @@ class Solution {
         else{
             return sort[(n1+n2)/2];
         }
-      
+                
 
     }
 }
