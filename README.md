@@ -63,7 +63,7 @@ Example:
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 4      |
+| Easy       | 5      |
 | Medium     | 2      |
 | Hard       | 2      |
 
