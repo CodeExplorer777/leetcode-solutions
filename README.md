@@ -65,7 +65,7 @@ Example:
 | ---------- | ------ |
 | Easy       | 12     |
 | Medium     | 2      |
-| Hard       | 4      |
+| Hard       | 5      |
 
 *(Updated regularly)*
 
