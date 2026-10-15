@@ -64,8 +64,8 @@ Example:
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 12     |
-| Medium     | 2      |
-| Hard       | 5      |
+| Medium     |  5     |
+| Hard       |  5     |
 
 *(Updated regularly)*
 
